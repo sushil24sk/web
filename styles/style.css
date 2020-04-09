@@ -29,4 +29,5 @@ html {
   img {
     display: block;
     margin: 0 auto;
+    box-shadow: 5px 5px #270303f8;
   }
