@@ -1,0 +1,13 @@
+p{
+    color : red;
+    width: 450px;
+    border: 1px solid black;
+}
+ul
+{
+    color : rgb(47, 255, 151);
+    background-color: hotpink;
+}
+p,li,h1{
+    color: rgb(4, 236, 62);
+}
